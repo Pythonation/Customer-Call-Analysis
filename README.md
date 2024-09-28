@@ -32,7 +32,8 @@
 
 -  افتح  ملف  `.env`  وأضف  السطر  التالي  مع  استبدال   `YOUR_GEMINI_TOKEN`   بقيمة   token   الخاصة  بك:
  ```
- GEMINI_API_KEY=YOUR_GEMINI_TOKEN
+API_KEY=YOUR_GEMINI_TOKEN
+MODEL=gemini-1.5-flash-latest
  ```
 ### 5.  تشغيل  التطبيق 
 
